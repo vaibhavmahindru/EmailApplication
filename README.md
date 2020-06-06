@@ -5,7 +5,7 @@
 It performs the following actions:-
 
 - Genrate an email with the following syntax: fisrtname.lastname@department.company.com
-- Dtermine the department.
+- Determine the department.
 - Genrate random string for a password.
 - Set methods to change the password, set the mailbox capacity and define an alternate email id.
 - Get methods to display the name, email and mailbox capacity.
